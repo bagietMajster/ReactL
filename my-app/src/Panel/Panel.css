@@ -1,0 +1,38 @@
+.panel {
+    width: 400px;
+    height: 75px;
+    border: black solid 2px;
+    border-radius: 12px;
+    display: flex;
+    margin-top: 20px;
+}
+
+.location-cont {
+    font-size: 36px;
+    width: 40%;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+.first-column {
+    width: 20%;
+}
+
+.second-column {
+    width: 40%;
+}
+
+.top-element {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.bottom-element {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
